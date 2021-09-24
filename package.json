@@ -1,0 +1,19 @@
+{
+  "name": "kattalonien",
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.js",
+  "scripts": {
+    "kattalonien": "parcel serve index.html",
+    "build": "npm build kattalonien",
+    "meow": "echo 'meow'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
